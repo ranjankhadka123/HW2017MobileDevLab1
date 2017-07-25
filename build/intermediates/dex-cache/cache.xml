@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29d1bc0cd83893975324b6df817249ea1a05f92f">
+        <dex dex="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_06ae2fb7304f1224ba17552796852cb8a1030238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rkhadka/Desktop/HW2017MobileDevLab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rkhadka/Desktop/HW2017MobileDevLab1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae8827385e8b4edeb10536f345065d4400a62af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rkhadka/Desktop/mobile_app/HW2017MobileDevLab1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a4610c75a9548c85dbcffc11986f80f2c9c0e149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rkhadka/Desktop/HW2017MobileDevLab1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="437150bcb31774929bc67bdd3a0ce2aa267a4c9a">
+        <dex dex="/Users/rkhadka/Desktop/HW2017MobileDevLab1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5aa34c5599e62070e906b8e21e7025cafef46ad/classes.dex" />
+    </item>
+
+</items>
